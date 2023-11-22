@@ -1,0 +1,4 @@
+<h1>[AD 1527] Anabaptist movement begins - Schleitheim Confession</h1>
+<h2>Professes Believer's Baptism, denies infant baptism as an abomination of the pope</h2>
+
+<p>First. Observe concerning baptism: Baptism shall be given to all those who have learned repentance and amendment of life, and who believe truly that their sins are taken away by Christ, and to all those who walk in the resurrection of Jesus Christ, and wish to be buried with Him in death, so that they may be resurrected with Him, and to all those who with this significance request it [baptism] of us and demand it for themselves. This excludes all infant baptism, the highest and chief abomination of the pope. In this you have the foundation and testimony of the apostles. Mt. 28, Mk. 16, Acts 2, 8, 16, 19. This we wish to hold simply, yet firmly and with assurance. </p>
