@@ -1,6 +1,6 @@
 
 
-<h1>[AD 1609] Protestant: Baptist movement - John Smyth</h1>
+<h1>[AD 1609] Protestant: Baptists</h1>
 <h2>Baptism should only be done to those made disciples by teaching (Matt. 28:19), therefore infants are not to be baptized</h2>
 
 <blockquote>
@@ -20,7 +20,7 @@ Ergo, those that are not by teaching made Disciples, are by Christ forbidden to 
 
 
 
-<h1>[AD 1536] Protestant: Calvinism - John Calvin</h1>
+<h1>[AD 1536] Protestant: Calvinists</h1>
 <h2>Infant baptism has strong support from scripture and traces its origin to the days of the apostles</h2>
 
 <blockquote>
@@ -33,7 +33,7 @@ For the divine symbol communicated to the child, as with the impress of a seal, 
 
 
 
-<h1>[AD 1529] Protestant: Lutheranism movement - Martin Luther</h1>
+<h1>[AD 1529] Protestant: Lutherans</h1>
 <h2>Baptism of infants is pleasing to Christ</h2>
 
 <blockquote>
@@ -50,7 +50,7 @@ For even though a Jew should to-day come dishonestly and with evil purpose, and 
 
 
 
-<h1>[AD 1527] Protestant: Anabaptist movement - Schleitheim Confession</h1>
+<h1>[AD 1527] Protestant: Anabaptists</h1>
 <h2>Baptism is for believers, and that excludes infants - infant baptism is an abomination of the pope</h2>
 
 <blockquote>
