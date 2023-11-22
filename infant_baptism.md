@@ -51,7 +51,7 @@ For even though a Jew should to-day come dishonestly and with evil purpose, and 
 
 
 <h1>[AD 1527] Protestant: Anabaptist movement - Schleitheim Confession</h1>
-<h2>Professes believer's baptism, denies infant baptism as an abomination of the pope</h2>
+<h2>Baptism is for believers, and that excludes infants - infant baptism is an abomination of the pope</h2>
 
 <blockquote>
 First. Observe concerning baptism: Baptism shall be given to all those who have learned repentance and amendment of life, and who believe truly that their sins are taken away by Christ, and to all those who walk in the resurrection of Jesus Christ, and wish to be buried with Him in death, so that they may be resurrected with Him, and to all those who with this significance request it [baptism] of us and demand it for themselves. This excludes all infant baptism, the highest and chief abomination of the pope. In this you have the foundation and testimony of the apostles. Mt. 28, Mk. 16, Acts 2, 8, 16, 19. This we wish to hold simply, yet firmly and with assurance. [<a href='https://courses.washington.edu/hist112/SCHLEITHEIM%20CONFESSION%20OF%20FAITH.htm' target='_blank'>THE SCHLEITHEIM CONFESSION OF FAITH, Article 1</a>]
