@@ -38,7 +38,6 @@ Now there was a man in Jerusalem, whose name was Simeon, and this man was righte
 </i>
 <hr>
 </blockquote>
-</details>
 
 <h1>The Legend</h1>
 
@@ -60,7 +59,6 @@ The holy righteous Simeon the God-Receiver died at a great age (Tradition says h
 </i>
 <hr>
 </blockquote>
-</details>
 
 
 
