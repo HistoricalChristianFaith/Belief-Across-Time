@@ -9,3 +9,5 @@ Historical Christian beliefs in various topics across time
 - ["Blood of Abel to the blood of Zechariah" and the boundaries of the Canon](abel_to_zech.md)
 - [The Early Church Fathers and Catholic Deuterocanonical book quotations](ecf_quote_deut.md)
 - [Athanasius and the Catholic Deuterocanonical books](athanasius_canon.md)
+- [Ignatius as the child in Jesus' arms in Matthew 18](ignatius_child_in_jesus_arms.md)
+
