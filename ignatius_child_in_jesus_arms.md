@@ -44,16 +44,9 @@ The passive meaning gave birth to the legend that Ignatius as a child had person
 <h1>The Historical Record</h1>
 
 
-In 1672 he published at Cambridge Vindiciae epistolarum S. Ignatii, in 4to, in answer to Jean Daillé. His defence of the authenticity of the letters of Ignatius has been confirmed by J. B. Lightfoot and other scholars. 
 
-https://en.wikipedia.org/wiki/Jean_Daill%C3%A9
-^This was who he was arguing with, apparently JB Lightfoot confirmed his work as well.
 
-Dallaeus presents the status of this question and triumphs in its solution: "It is asked," he says, "whether and for what reason Ignatius was called Theophorus." Indeed, no one has yet asked whether our Ignatius was called Theophorus; the ancients and the moderns have given different reasons for the name; therefore, it can be questioned who has explained the true reason for the name: "The Greeks, who confer this name, pronounce Theophoron with the stress on the second syllable, and thus testify that it was so called because Christ had once carried him in his arms as a small child." 
 
-"Quaeritur, inquit an et qua de causa Ignatius vocatus sit Theophorus"
-
-"Qui hoc cum nomine, inquiunt, donant Graeci, [Theophorus] cum tono in secunda syllaba efferunt, atque ita a se suisque ideo dictum testantur, quod Christus eum adhuc parvulum manu in ulnas susceptam tulisset."
 
 <h2><a href='https://en.wikipedia.org/wiki/John_Pearson_(bishop)#Works'>John Pearson</a></h2>
 <blockquote>
@@ -74,6 +67,20 @@ Dallaeus presents the status of this question and triumphs in its solution: "It 
 Do not Ephrem, Gobar, and Job, as represented by Photius, speak in this manner? Do not the most ancient Acts introduce Ignatius himself explaining the meaning of his name in this way? Have not the most ancient Greek writers frequently observed that the term Theophoros was attributed to holy men in this sense? I believe no one ever wrote Theophoros with the stress on the second syllable before the tenth century, that is, before the tale was born. Anastasius himself translates Ignatius Theophoros as "Ignatius the God-bearer"; and Ignatius of Constantinople was nicknamed neos Theophoros. It was Primus Metaphrastes who shifted the accent to make the fable appear more dramatic on stage, and others followed him.
 
 This was easy for them, since common words turned into proper names often change accent. Theophoros was an epithet that particularly stuck to the name of Ignatius, not because it was his proper name or became so, but because the people consistently attributed this epithet to him, as St. Athanasius reports about Anthony: "All his neighbors, who were lovers of beauty and virtue and accustomed to his ways, thus seeing him, called him 'the beloved of God'." Those Greeks later, as if it were a proper name, wrote Theophoros, since proper names tend to attract accents.
+</i>
+<hr>
+</blockquote>
+</details>
+
+
+<h2><a href='https://en.wikipedia.org/wiki/Jean_Daill%C3%A9'>Jean Daillé</a></h2>
+<blockquote>
+<h4>[AD 1670] <a href='https://books.google.com/books?id=q1SUiWOUGP4C&pg=PA379#v=onepage&q&f=false'>De Scriptis quae sub Dionysii Areopagitae et Ignatii Antiocheni nominibus circumferuntur / On the Writings that are Circulated under the Names of Dionysius the Areopagite and Ignatius of Antioch</h4>
+<i>
+
+Iam vero hoc Ignatii nomen Theophorus, & apud vetuftiffimos omnes eft inauditum, & plane fabulofum, & ex fabula ortum. Ergo & ipfas cui id præfixum eft , epiftolas non Ignatii, qui id cognomen, vt ftatim oftendemus, nunquam vivus geffit,fed alterius alicuius diu poft Ignatium fuiffe neceffe eft. Fabulofum autem effe Theophori cognomen,non ex vero inditum, fed ex fabella quod dixi , natum apparet. Nam fi quæras, cur & vnde fingulare hoc , planeque mirificum , neque vlli quod fciam , ex omni hominum genere mortali, præter hunc vnum, inditum , cognomentum nactus fit Ignatius ; refpondent Græci ( vt nofter ipfe Vfferius docet ) in publicis ac totius gentis fuæ communibus libris , Theophorum ideo effe appellatum, quod cum Dominus Iefus adhuc tenellum exiftentem fanctiffimis manibus acceptum fuftulerit, & in vlnas fufceperit. Locus eft in Græcorum tum Menæo vetere Venetiis, tum etiam novoAnthologio Romæ edito ad diem XX. Decembris ; Hic erat ( inquiunt, de Ignatio verba facientes ) beatus ille, quem adhuc tenellum exiftentem ,fuftuliſſe Dominum aiunt, & vlnis eum amplexatum dixiffe ; Nifi quis humiliavevit fe ipfum, ficut paerulus ifte, nequaquam intrabit in regnum cœlorum , & qui vnum eiufmodi puerulorum fufceperit in meo nomine , mefufcipit. Propterea & THEOPHORVS eft appellatus. <br>
+----<br>
+Now indeed, this name Theophoros for Ignatius is unheard of among all the most ancient sources, and is clearly fabulous, and born of a fable. Therefore, the letters to which this title is prefixed must not belong to Ignatius, who, as we will immediately show, never bore this cognomen in life, but must have been written by someone else long after Ignatius. That the cognomen Theophoros is fabulous, not given in truth but born from the fable I mentioned, appears evident. For if you ask why and from where Ignatius alone obtained this singular and truly marvelous cognomen, which as far as I know, has not been bestowed on anyone else of the entire human race, the Greeks reply (as our own Ussher teaches) in their public and common books of the whole nation, that he was called Theophoros because when the Lord Jesus, while still a toddler, took him up with His most holy hands and embraced him in His arms. There is a place in the Greek Menaion, an old version printed in Venice, and also in the new Anthologion published in Rome on the 20th of December; Here was (they say, speaking of Ignatius) the blessed one, whom the Lord is said to have lifted up while still a toddler, and having embraced him in His arms, said; "Unless someone humbles himself like this little child, he will by no means enter into the kingdom of heaven," and "whoever receives one such child in my name, receives me." Therefore, he was called THEOPHOROS.
 </i>
 <hr>
 </blockquote>
