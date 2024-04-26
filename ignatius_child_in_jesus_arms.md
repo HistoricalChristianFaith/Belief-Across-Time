@@ -101,6 +101,21 @@ Now tell me, please, whom do you consider to have been the happier: St. Ignatius
 </blockquote>
 </details>
 
+<h2><a href='https://en.wikipedia.org/wiki/Symeon_the_Metaphrast'>Symeon Metaphrastes</a></h2>
+<blockquote>
+<h4>[AD 987] <a href='https://archive.org/details/patrologiaecurs125migngoog/page/n658/mode/2up'>Vita S. Ignatii Deiferi</a> - Patrologia Graeca, Volume 114, page 1269. Translated by ChatGPT.</h4> 
+<i>
+When Trajan had taken up the reins of the Roman Empire, there was a bishop of the Church of Antioch, by name and indeed God-bearer, Ignatius. For indeed, Evodius succeeded the great Peter, and after Evodius came Ignatius, who became an emulator of his character and virtue. To this divine Ignatius, while he was still clearly a boy, they say that Christ, while still active in the world, laid His undefiled hands upon him and said to the people looking on: "Unless someone humbles himself like this child, he will not enter the kingdom of heaven; and whoever receives one such child in my name, receives me," thus showing what kind of man Ignatius would become as he grew older, and clearly indicating his apostolic teaching.
+
+Therefore, this divine Ignatius, along with Polycarp, who presided over the Church of Smyrna, was a disciple of John the Evangelist; and having come to him alone, and diligently practiced every aspect of virtue, and especially that which befits a priest, he was then chosen by the common consent of all the apostles, and made bishop of Antioch. When he had taken over the Church, and with much sweat and labor sown the preaching of piety in it, and shown zeal in all things apostolic and demonstrated his teaching, and had become a perfect minister of the mysteries of Christ, he also later became a martyr, given to the beasts for that cause, as will be declared more fully a little later in the discourse.
+
+[...]
+
+After hearing these things, Trajan immediately summoned the saint, and with the Senate also present, he said, "Are you the one called God-bearer, who mocks our commands and upturns all of Antioch, leading everyone after Christ, whom you preach, and do not even deem the gods worthy of the name?" Divine Ignatius replied, "I am he." Then he asked, "And what does this 'God-bearer' mean?" The martyr responded, "It means carrying Christ in the soul." The Emperor then said, "So, you carry Christ within yourself?" "Indeed," he said. "For it is written: 'I will dwell in them and walk among them.'"
+</i>
+<hr>
+</blockquote>
+</details>
 
 
 
@@ -108,7 +123,7 @@ Now tell me, please, whom do you consider to have been the happier: St. Ignatius
 
 
 
-<h2><a href='https://en.wikipedia.org/wiki/Francis_de_Sales'>Anastasius the Librarian</a></h2>
+<h2><a href='https://en.wikipedia.org/wiki/Anastasius_Bibliothecarius'>Anastasius the Librarian</a></h2>
 <blockquote>
 <h4>[AD 878] <a href='https://www.google.com/books/edition/Patrologi%C3%A6_cursus_completus/LbLUAAAAMAAJ?hl=en&gbpv=1&dq=quem+Dominus+advocatum+statuit&pg=PA41&printsec=frontcover'>Acts of the Holy and Universal Eighth Council, Which Was Assembled in Constantinople</a> - Actio I, Cap. VI, footnote on Ignatius Deifer, Appendix Ad Saeculum IX, Patrologia Latina. Translated by ChatGPT.</h4> 
 <i>
