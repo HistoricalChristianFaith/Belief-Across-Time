@@ -50,7 +50,7 @@ The passive meaning gave birth to the legend that Ignatius as a child had person
 
 <h2><a href='https://en.wikipedia.org/wiki/John_Pearson_(bishop)#Works'>John Pearson</a></h2>
 <blockquote>
-<h4>[AD 1686] <a href='https://archive.org/details/patrologiaecurs92migngoog/page/n206/mode/2up'>Joannis Pearsonii, Vindiciae Ignatianaem, Part II</h4> - in Patrologia Graeca Tomus V. Translation by ChatGPT.
+<h4>[AD 1686] <a href='https://archive.org/details/patrologiaecurs92migngoog/page/n206/mode/2up'>Joannis Pearsonii, Vindiciae Ignatianaem, Part II</a> - in Patrologia Graeca Tomus V. Translation by ChatGPT.</h4>
 <i>
 [<a href='https://archive.org/details/patrologiaecurs92migngoog/page/n204/mode/2up'>Page 399</a>] 
 The tale of St. Ignatius as a child in the arms of Christ, receiving this title, is a much later story. Another tradition, contemporary to this fable, was unknown to the ancients. Anastasius and Metaphrastes were the first to recall this fable. The fable seems to have originated during the era of Ignatius, Patriarch of Constantinople.
@@ -75,7 +75,7 @@ This was easy for them, since common words turned into proper names often change
 
 <h2><a href='https://en.wikipedia.org/wiki/Jean_Daill%C3%A9'>Jean Daillé</a></h2>
 <blockquote>
-<h4>[AD 1670] <a href='https://books.google.com/books?id=q1SUiWOUGP4C&pg=PA379#v=onepage&q&f=false'>De Scriptis quae sub Dionysii Areopagitae et Ignatii Antiocheni nominibus circumferuntur / On the Writings that are Circulated under the Names of Dionysius the Areopagite and Ignatius of Antioch</h4>
+<h4>[AD 1670] <a href='https://books.google.com/books?id=q1SUiWOUGP4C&pg=PA379#v=onepage&q&f=false'>De Scriptis quae sub Dionysii Areopagitae et Ignatii Antiocheni nominibus circumferuntur</a> / On the Writings that are Circulated under the Names of Dionysius the Areopagite and Ignatius of Antioch - Translation by ChatGPT</h4>
 <i>
 
 Iam vero hoc Ignatii nomen Theophorus, & apud vetuftiffimos omnes eft inauditum, & plane fabulofum, & ex fabula ortum. Ergo & ipfas cui id præfixum eft , epiftolas non Ignatii, qui id cognomen, vt ftatim oftendemus, nunquam vivus geffit,fed alterius alicuius diu poft Ignatium fuiffe neceffe eft. Fabulofum autem effe Theophori cognomen,non ex vero inditum, fed ex fabella quod dixi , natum apparet. Nam fi quæras, cur & vnde fingulare hoc , planeque mirificum , neque vlli quod fciam , ex omni hominum genere mortali, præter hunc vnum, inditum , cognomentum nactus fit Ignatius ; refpondent Græci ( vt nofter ipfe Vfferius docet ) in publicis ac totius gentis fuæ communibus libris , Theophorum ideo effe appellatum, quod cum Dominus Iefus adhuc tenellum exiftentem fanctiffimis manibus acceptum fuftulerit, & in vlnas fufceperit. Locus eft in Græcorum tum Menæo vetere Venetiis, tum etiam novoAnthologio Romæ edito ad diem XX. Decembris ; Hic erat ( inquiunt, de Ignatio verba facientes ) beatus ille, quem adhuc tenellum exiftentem ,fuftuliſſe Dominum aiunt, & vlnis eum amplexatum dixiffe ; Nifi quis humiliavevit fe ipfum, ficut paerulus ifte, nequaquam intrabit in regnum cœlorum , & qui vnum eiufmodi puerulorum fufceperit in meo nomine , mefufcipit. Propterea & THEOPHORVS eft appellatus. <br>
